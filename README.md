@@ -1,4 +1,6 @@
-# flutter_auth0 plugin
+# f_auth0 plugin\
+
+**FORKED from [https://github.com/devdennysegura/flutter-auth0](https://github.com/devdennysegura/flutter-auth0).**
 
 A Flutter plugin to use the [Auth0 API & Auth0 PKCE flow](https://auth0.com/docs/api/authentication).
 
