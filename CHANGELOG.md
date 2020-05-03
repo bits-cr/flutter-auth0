@@ -1,3 +1,9 @@
+## v0.5.2 (2019-05-03)
+
+fixes:
+
+- Add iOS pluginClass to pubspec.yaml to improve support on iOS
+
 ## v0.5.1 (2019-05-02)
 
 fixes:
