@@ -1,3 +1,12 @@
+## v0.5.1 (2019-05-02)
+
+fixes:
+
+- Fix crash android app. issue [#40](https://github.com/devdennysegura/flutter-auth0/issues/40)
+- Rename lib from flutter_auth0 to auth0_lib
+
+Note: forked from [https://github.com/devdennysegura/flutter-auth0](https://github.com/devdennysegura/flutter-auth0)
+
 ## v0.5.0 (2019-08-09)
 
 breaking changes:
