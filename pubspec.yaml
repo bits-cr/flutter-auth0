@@ -1,6 +1,5 @@
 name: auth0_lib
 description: "Flutter toolkit for Auth0 API and web pkce flow authentication. Forked: https://github.com/devdennysegura/flutter-auth0"
-author: BitsCR <dev@bits.cr>
 homepage: https://github.com/bits-cr/flutter-auth0-lib
 version: 0.5.1
 
