@@ -1,9 +1,9 @@
 // import 'package:test/test.dart';
-// import 'package:flutter_auth0/flutter_auth0.dart';
+// import 'package:auth0_lib/auth0_lib.dart';
 
 // Auth0 auth = new Auth0(
-//     clientId: 'XIpuO0OchFaayJZRq8RvpQefOdfJkgSL',
-//     domain: 'dennysegura.auth0.com');
+//     clientId: '2dLbSVLSTEn7uGXL1boFPjdxy4vx9KD0',
+//     domain: 'bits-cr-dev.auth0.com');
 
 // void main() {
 //   test('sign-up', () async {

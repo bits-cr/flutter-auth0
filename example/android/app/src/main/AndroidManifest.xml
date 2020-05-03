@@ -14,7 +14,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="flutter_auth0"
+        android:label="auth0_lib"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
@@ -43,7 +43,7 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <data
-                    android:host="dennysegura.auth0.com"
+                    android:host="bits-cr-dev.auth0.com"
                     android:pathPrefix="/android/${applicationId}/callback"
                     android:scheme="${applicationId}" />
             </intent-filter>

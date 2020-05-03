@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_auth0/flutter_auth0.dart';
+import 'package:auth0_lib/auth0_lib.dart';
 
 import 'pkce.dart';
 import 'standard.dart';
 
-final String clientId = 'XIpuO0OchFaayJZRq8RvpQefOdfJkgSL';
-final String domain = 'dennysegura.auth0.com';
+final String clientId = '2dLbSVLSTEn7uGXL1boFPjdxy4vx9KD0';
+final String domain = 'bits-cr-dev.auth0.com';
 
 class MyHomePage extends StatefulWidget {
   MyHomePage({Key key, this.title}) : super(key: key);

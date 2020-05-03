@@ -3,13 +3,13 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_auth0'
+  s.name             = 'auth0_lib'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
 A new flutter plugin project.
                        DESC
-  s.homepage         = 'https://github.com/devdennysegura/flutter-auth0'
+  s.homepage         = 'https://github.com/bits-cr/flutter-auth0-lib'
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Denny Segura' => 'devdennysegura@gmail.com' }
   s.source           = { :path => '.' }

@@ -1,4 +1,4 @@
-# f_auth0 plugin\
+# auth0_lib plugin\
 
 **FORKED from [https://github.com/devdennysegura/flutter-auth0](https://github.com/devdennysegura/flutter-auth0).**
 

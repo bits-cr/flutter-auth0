@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_auth0/flutter_auth0.dart';
+import 'package:auth0_lib/auth0_lib.dart';
 
 class StandardPage extends StatefulWidget {
   final auth;

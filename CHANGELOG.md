@@ -127,7 +127,7 @@ Note: This plugin is still under development, and some APIs might not be availab
 
 ## Usage
 
-To use this plugin, add `flutter_auth0` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
+To use this plugin, add `auth0_lib` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
 ## SignIn with email and password
 

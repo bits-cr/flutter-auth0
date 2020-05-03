@@ -1,6 +1,6 @@
 ## Installation
 
-add `flutter_auth0: x.x.x.` to pubspec.yml file
+add `auth0_lib: x.x.x.` to pubspec.yml file
 
 ```bash
 flutter pub get
@@ -29,7 +29,7 @@ In the file `android/app/src/main/AndroidManifest.xml` you must make sure the **
 </activity>
 ```
 
-So if you have `dennysegura.auth0.com` as your Auth0 domain you would have the following **MainActivity**  configuration:
+So if you have `bits-cr-dev.auth0.com` as your Auth0 domain you would have the following **MainActivity**  configuration:
 
 ```xml
 <activity 
@@ -39,7 +39,7 @@ So if you have `dennysegura.auth0.com` as your Auth0 domain you would have the f
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data
-            android:host="dennysegura.auth0.com"
+            android:host="bits-cr-dev.auth0.com"
             android:pathPrefix="/android/${applicationId}/callback"
             android:scheme="${applicationId}" />
     </intent-filter>
@@ -76,7 +76,7 @@ Inside the `ios` folder open the `Info.plist` and locate the values for `CFBundl
 </array>
 ```
 
-The `<string>` value should be the literal value of the Bundle Identifier with no $ variables, for example: `dennysegura.auth0.com`.
+The `<string>` value should be the literal value of the Bundle Identifier with no $ variables, for example: `bits-cr-dev.auth0.com`.
 
 ### Callback URL(s)
 
@@ -102,7 +102,7 @@ Go to the [Auth0 Dashboard](https://manage.auth0.com/#/applications), select you
 ## Usage
 
 ```dart
-import 'package:flutter_auth0/flutter_auth0.dart';
+import 'package:auth0_lib/auth0_lib.dart';
 
 class ... {
 Auth0 auth0;

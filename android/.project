@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>flutter_auth0</name>
-	<comment>Project flutter_auth0 created by Buildship.</comment>
+	<name>auth0_lib</name>
+	<comment>Project auth0_lib created by Buildship.</comment>
 	<projects>
 	</projects>
 	<buildSpec>

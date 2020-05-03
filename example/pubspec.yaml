@@ -1,4 +1,4 @@
-name: flutter_auth0_example
+name: auth0_lib_example
 description: A new Flutter project.
 
 version: 1.0.0+1
@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^0.1.2
-  flutter_auth0:
+  auth0_lib:
     path: ../
 
 dev_dependencies:
